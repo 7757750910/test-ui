@@ -1,8 +1,8 @@
 项目介绍
 ---
 
-    zhlx_test_ui_oa
-    龙信2.0项目ui自动化代码目录
+    test_ui
+    xxxx项目ui自动化代码目录
 ---
 
 目录结构
@@ -26,7 +26,7 @@
 
 代码拉取
 -------
-通过git（https://zhlxgit.cnecc.com/zhlxtest/zhhh-test-ui-oa.git）拉取代码对应git项目名zhhh-test-ui-oa
+通过git
 
 
 本地运行
