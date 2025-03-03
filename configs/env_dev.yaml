@@ -1,6 +1,6 @@
-# 172.16.42.211    http://172.19.7.23/login        dev环境
+# dev环境
 
 # 开发环境的测试地址
-base_url: http://172.19.7.23/login
-user_name: admin
-password: hhLyoa@2024.
+base_url: http:xxxxxx
+user_name: xxxx
+password: xxxxxxxxxxxx
